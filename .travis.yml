@@ -10,7 +10,6 @@ install:
   - npm install
 
 script:
-  - npm run prebuild $FIREBASE_CONFIG
   - npm run build
 
 deploy:
