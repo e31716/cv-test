@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/e31716/cv-test.svg?branch=master)](https://travis-ci.org/e31716/cv-test)
 
 ## Purpose
-Deploy static page to GitHub Page after push to repo
+Deploy static page to GitHub Page after checking in by Travis CI
 
 ## Steps
 
